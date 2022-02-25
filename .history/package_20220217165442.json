@@ -1,0 +1,42 @@
+{
+  "name": "operationlogs",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "mock": "json-server ./src/mock/index.js -r ./src/mock/route.json -p 9000 --watch"
+  },
+  "dependencies": {
+    "@element-plus/icons-vue": "^0.2.7",
+    "axios": "^0.26.0",
+    "core-js": "^3.6.5",
+    "echarts": "^5.3.0",
+    "element-plus": "^2.0.2",
+    "file-saver": "^2.0.5",
+    "viser-vue": "^2.4.8",
+    "vue": "^3.0.0",
+    "vue-router": "^4.0.12",
+    "vuex": "^4.0.2",
+    "xlsx": "^0.18.2"
+  },
+  "devDependencies": {
+    "@babel/eslint-parser": "^7.17.0",
+    "@vue/cli-plugin-babel": "~4.5.0",
+    "@vue/cli-service": "~4.5.0",
+    "@vue/compiler-sfc": "^3.0.0",
+    "eslint": "^8.9.0",
+    "eslint-config-alloy": "^4.4.0",
+    "eslint-plugin-vue": "^8.4.1",
+    "json-server": "^0.17.0",
+    "less": "^4.1.2",
+    "less-loader": "^7.3.0",
+    "mockjs": "^1.1.0",
+    "vue-eslint-parser": "^8.2.0"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ]
+}

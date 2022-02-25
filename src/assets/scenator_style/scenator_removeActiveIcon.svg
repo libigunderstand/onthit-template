@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icon/删除备份 2</title>
+    <g id="工作空间" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="工作空间页签栏状态" transform="translate(-1187.000000, -577.000000)">
+            <g id="编组-2备份-4" transform="translate(131.000000, 520.000000)">
+                <g id="编组备份" transform="translate(864.000000, 0.000000)">
+                    <g id="Icon/删除备份" transform="translate(192.000000, 57.000000)">
+                        <polygon id="button-[9-9]备份" points="0 0 16 0 16 16 0 16"></polygon>
+                        <polygon id="路径" fill="#FFFFFF" fill-rule="nonzero" points="13.5 2.99973593 8.7964985 7.99973593 13.499 12.9997359 11.904 12.9997359 7.9994985 8.84773593 4.095 12.9997359 2.5 12.9997359 7.2014985 7.99973593 2.499 2.99973593 4.095 2.99973593 7.9994985 7.15173593 11.904 2.99973593"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

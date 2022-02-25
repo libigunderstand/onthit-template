@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icon/下 2</title>
+    <g id="树形控件" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="目录树" transform="translate(-546.000000, -127.000000)" fill-rule="nonzero">
+            <g id="编组-5备份" transform="translate(527.000000, 80.000000)">
+                <g id="编组-7" transform="translate(0.000000, 41.000000)">
+                    <g id="UI-ELEMENTS/TREE-ITEM/COZY/LEVEL-1/WITH-BORDER/EXPANDED/ICON/Regular"
+                        transform="translate(7.000000, 0.000000)">
+                        <g id="下_down" transform="translate(12.000000, 6.000000)">
+                            <rect id="矩形" fill="#FFFFFF" opacity="0" x="0" y="0" width="16" height="16"></rect>
+                            <path
+                                d="M13.8660126,5.16340631 L8.42963278,11.7934259 L8.42963278,11.7934259 C8.22638386,12.0413148 7.87590192,12.0661037 7.64320639,11.8677926 L7.57036722,11.7934259 L2.13398735,5.16340631 C2.09896902,5.12069916 2.10520203,5.05769021 2.14790917,5.02267187 C2.1657881,5.00801178 2.18819462,5 2.21131548,5 L3.44268177,5 C3.47263522,5 3.50101133,5.01342707 3.52000536,5.03658816 L8,10.4994366 L8,10.4994366 L12.4789944,5.03659657 C12.4979883,5.01343047 12.5263676,5 12.5563249,5 L13.7886845,5 C13.843913,5 13.8886845,5.04477153 13.8886845,5.1 C13.8886845,5.12312086 13.8806727,5.14552738 13.8660126,5.16340631 Z"
+                                id="路径" fill="white"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

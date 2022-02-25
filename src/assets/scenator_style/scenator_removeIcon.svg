@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icon/删除 2</title>
+    <g id="工作空间" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="三维视图-文档信息" transform="translate(-509.000000, -116.000000)">
+            <g id="编组-5" transform="translate(229.000000, 104.000000)">
+                <g id="编组" transform="translate(280.000000, 12.000000)">
+                    <polygon id="button-[9-9]" points="0 0 16 0 16 16 0 16"></polygon>
+                    <polygon id="路径" fill="#0854A1" fill-rule="nonzero" points="13.5 2.99973593 8.7964985 7.99973593 13.499 12.9997359 11.904 12.9997359 7.9994985 8.84773593 4.095 12.9997359 2.5 12.9997359 7.2014985 7.99973593 2.499 2.99973593 4.095 2.99973593 7.9994985 7.15173593 11.904 2.99973593"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
